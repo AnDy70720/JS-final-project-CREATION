@@ -1,5 +1,5 @@
 var bgImg = document.createElement('img');
-bgIlmg.src = 'images/map.png';
+bgImg.src = 'images/map.png';
 var canvas =  document.getElementBylId('game-canvas');
 var ctx = canvas.getContext('2d');
 function draw(){
